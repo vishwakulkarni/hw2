@@ -1,16 +1,30 @@
-This code is based on Python 3.
+## Project title:
 
-## Download the repository:
+OOAD Project 2: Zoo Program
 
-$ git clone https://github.com/vishwakulkarni/hw2.git
+## Team members:
 
-## Go to the directory:
+Ling Liu
 
-$ cd hw2/
+Vishwanath Kulkarni 
+
+Sitesh Ranjan
+
+## Development language and environment:
+
+This code is in Python 3.6. It is developed with PyCharm on macOS Majave.
 
 ## How to run the code:
 
-After you are in the directory hw2/,
+#### Download the repository:
+
+$ git clone https://github.com/vishwakulkarni/hw2.git
+
+#### Go to the directory:
+
+$ cd hw2/
+
+#### After you are in the directory hw2/,
 
 1. Run the code for part 1a:
 
