@@ -12,7 +12,7 @@ Sitesh Ranjan
 
 ## Development language and environment:
 
-This code is in Python 3.6. It is developed with PyCharm on macOS Majave.
+This code is in Python 3.6. It is developed and tested with PyCharm on macOS Majave.
 
 ## How to run the code:
 
