@@ -10,6 +10,8 @@ $ cd hw2/
 
 ## How to run the code:
 
+After you are in the directory hw2/,
+
 1. Run the code for part 1a:
 
 	$ python part1a/managezoo.py
