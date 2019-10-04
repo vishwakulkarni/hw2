@@ -1,11 +1,14 @@
 This code is based on Python 3.
 
-Download the repository:
+## Download the repository:
 
 $ git clone https://github.com/vishwakulkarni/hw2.git
 
-Go to the directory:
+## Go to the directory:
+
 $ cd hw2/
+
+## How to run the code:
 
 1. Run the code for part 1a:
 
