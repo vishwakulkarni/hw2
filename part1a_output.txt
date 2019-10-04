@@ -1,0 +1,120 @@
+===================================
+**Zookeeper is waking the animals**
+
+Charlie, Cat, in family Feline, is sleeping.
+Chloe, Cat, in family Feline, is making noise like a Cat.
+Chris, Cat, in family Feline, is waking up.
+Tom, Tiger, in family Feline, is waking up.
+Ted, Tiger, in family Feline, is waking up.
+Lucas, Lion, in family Feline, is waking up.
+Lincoln, Lion, in family Feline, is waking up.
+Evan, Elephant, in family Pachderm, is waking up.
+Erik, Elephant, in family Pachderm, is waking up.
+Hiro, Hippo, in family Pachderm, is waking up.
+Hillary, Hippo, in family Pachderm, is waking up.
+Hibai, Hippo, in family Pachderm, is waking up.
+Riley, Rhino, in family Pachderm, is waking up.
+Robert, Rhino, in family Pachderm, is waking up.
+William, Wolf, in family Canine, is waking up like a Canine.
+Wayne, Wolf, in family Canine, is waking up like a Canine.
+Dave, Dog, in family Canine, is waking up like a Dog.
+Daniel, Dog, in family Canine, is waking up like a Dog.
+Drew, Dog, in family Canine, is waking up like a Dog.
+Dot, Dog, in family Canine, is waking up like a Dog.
+
+-----------------------------------
+**Zookeeper is roll-calling the animals**
+
+Charlie, Cat, in family Feline, is sleeping.
+Chloe, Cat, in family Feline, is sleeping.
+Chris, Cat, in family Feline, is making noise like a Cat.
+Tom, Tiger, in family Feline, is making noise like a Tiger.
+Ted, Tiger, in family Feline, is making noise like a Tiger.
+Lucas, Lion, in family Feline, is making noise like a Lion.
+Lincoln, Lion, in family Feline, is making noise like a Lion.
+Evan, Elephant, in family Pachderm, is making noise like an Elephant.
+Erik, Elephant, in family Pachderm, is making noise like an Elephant.
+Hiro, Hippo, in family Pachderm, is making noise like a Hippo.
+Hillary, Hippo, in family Pachderm, is making noise like a Hippo.
+Hibai, Hippo, in family Pachderm, is making noise like a Hippo.
+Riley, Rhino, in family Pachderm, is making noise like a Rhino.
+Robert, Rhino, in family Pachderm, is making noise like a Rhino.
+William, Wolf, in family Canine, is making noise like a Canine.
+Wayne, Wolf, in family Canine, is making noise like a Canine.
+Dave, Dog, in family Canine, is making noise like a Dog.
+Daniel, Dog, in family Canine, is making noise like a Dog.
+Drew, Dog, in family Canine, is making noise like a Dog.
+Dot, Dog, in family Canine, is making noise like a Dog.
+
+-----------------------------------
+**Zookeeper is feeding the animals**
+
+Charlie, Cat, in family Feline, is roaming like a Feline.
+Chloe, Cat, in family Feline, is waking up.
+Chris, Cat, in family Feline, is eating like a Cat.
+Tom, Tiger, in family Feline, is eating like a Feline.
+Ted, Tiger, in family Feline, is eating like a Feline.
+Lucas, Lion, in family Feline, is eating like a Feline.
+Lincoln, Lion, in family Feline, is eating like a Feline.
+Evan, Elephant, in family Pachderm, is eating like a Pachyderm.
+Erik, Elephant, in family Pachderm, is eating like a Pachyderm.
+Hiro, Hippo, in family Pachderm, is eating like a Hippo.
+Hillary, Hippo, in family Pachderm, is eating like a Hippo.
+Hibai, Hippo, in family Pachderm, is eating like a Hippo.
+Riley, Rhino, in family Pachderm, is eating like a Pachyderm.
+Robert, Rhino, in family Pachderm, is eating like a Pachyderm.
+William, Wolf, in family Canine, is eating.
+Wayne, Wolf, in family Canine, is eating.
+Dave, Dog, in family Canine, is eating like a Dog.
+Daniel, Dog, in family Canine, is eating like a Dog.
+Drew, Dog, in family Canine, is eating like a Dog.
+Dot, Dog, in family Canine, is eating like a Dog.
+
+-----------------------------------
+**Zookeeper is exercising the animals**
+
+Charlie, Cat, in family Feline, is eating like a Cat.
+Chloe, Cat, in family Feline, is sleeping.
+Chris, Cat, in family Feline, is roaming like a Feline.
+Tom, Tiger, in family Feline, is roaming like a Feline.
+Ted, Tiger, in family Feline, is roaming like a Feline.
+Lucas, Lion, in family Feline, is roaming like a Lion.
+Lincoln, Lion, in family Feline, is roaming like a Lion.
+Evan, Elephant, in family Pachderm, is roaming.
+Erik, Elephant, in family Pachderm, is roaming.
+Hiro, Hippo, in family Pachderm, is roaming like a Hippo.
+Hillary, Hippo, in family Pachderm, is roaming like a Hippo.
+Hibai, Hippo, in family Pachderm, is roaming like a Hippo.
+Riley, Rhino, in family Pachderm, is roaming.
+Robert, Rhino, in family Pachderm, is roaming.
+William, Wolf, in family Canine, is roaming.
+Wayne, Wolf, in family Canine, is roaming.
+Dave, Dog, in family Canine, is roaming like a Dog.
+Daniel, Dog, in family Canine, is roaming like a Dog.
+Drew, Dog, in family Canine, is roaming like a Dog.
+Dot, Dog, in family Canine, is roaming like a Dog.
+
+-----------------------------------
+**Zookeeper is shutting down the zoo**
+
+Charlie, Cat, in family Feline, is eating like a Cat.
+Chloe, Cat, in family Feline, is waking up.
+Chris, Cat, in family Feline, is waking up.
+Tom, Tiger, in family Feline, is sleeping.
+Ted, Tiger, in family Feline, is sleeping.
+Lucas, Lion, in family Feline, is sleeping.
+Lincoln, Lion, in family Feline, is sleeping.
+Evan, Elephant, in family Pachderm, is sleeping.
+Erik, Elephant, in family Pachderm, is sleeping.
+Hiro, Hippo, in family Pachderm, is sleeping.
+Hillary, Hippo, in family Pachderm, is sleeping.
+Hibai, Hippo, in family Pachderm, is sleeping.
+Riley, Rhino, in family Pachderm, is sleeping like a Rhino.
+Robert, Rhino, in family Pachderm, is sleeping like a Rhino.
+William, Wolf, in family Canine, is sleeping.
+Wayne, Wolf, in family Canine, is sleeping.
+Dave, Dog, in family Canine, is sleeping like a Dog.
+Daniel, Dog, in family Canine, is sleeping like a Dog.
+Drew, Dog, in family Canine, is sleeping like a Dog.
+Dot, Dog, in family Canine, is sleeping like a Dog.
+===================================
